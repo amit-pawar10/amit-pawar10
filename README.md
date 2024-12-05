@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-pawar10&label=Profile%20views&color=0e75b6&style=flat" alt="amit-pawar10" /> </p>
 
-- 🔭 I’m currently working working as a Data Scientist for  **Rockwell Automation**
+- 🔭 I’m currently working as a Data Scientist for  **Rockwell Automation**
 
 - 🌱 I’m currently learning **GenAI**
 
